@@ -43,7 +43,9 @@
       <text class="text">美食</text>
     </view>
   </view>
-  <view class="top-placeholder"><text style="font-size: 10pt;line-height:30px;">  附近商家</text></view>
+  <view class="top-placeholder">
+    <text class="text">附近商家</text>
+  </view>
 
 
   <!--<view  bindtap="bindViewTap" class="userinfo">
@@ -53,4 +55,16 @@
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>-->
+
+  
+
+
+
+
+
+
+
+
+
+
 </view>
