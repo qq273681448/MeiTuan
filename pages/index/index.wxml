@@ -5,42 +5,42 @@
     <image class="t" mode="aspectFit" src="/img/t1.png"></image>
     <text>美食</text>
   </view>-->
-  <view class="bnrs-indic-wrap">
-  </view>
+  <!--<view class="bnrs-indic-wrap">
+  </view>-->
   <view style="display: flex;">
     <view class="icon">
       <image class="t" mode="aspectFit" src="/img/t1.png"></image>
       <text class="text">美食</text>
     </view>
     <view class="icon">
-      <image class="t" mode="aspectFit" src="/img/t1.png"></image>
-      <text class="text">美食</text>
+      <image class="t" mode="aspectFit" src="/img/t2.png"></image>
+      <text class="text">超市</text>
     </view>
     <view class="icon">
-      <image class="t" mode="aspectFit" src="/img/t1.png"></image>
-      <text class="text">美食</text>
+      <image class="t" mode="aspectFit" src="/img/t3.png"></image>
+      <text class="text">鲜果购</text>
     </view>
     <view class="icon">
-      <image class="t" mode="aspectFit" src="/img/t1.png"></image>
-      <text class="text">美食</text>
+      <image class="t" mode="aspectFit" src="/img/t4.png"></image>
+      <text class="text">甜点饮品</text>
     </view>
   </view>
   <view style="display: flex;">
     <view class="icon">
-      <image class="t" mode="aspectFit" src="/img/t1.png"></image>
-      <text class="text">美食</text>
+      <image class="t" mode="aspectFit" src="/img/t5.png"></image>
+      <text class="text">正餐优选</text>
     </view>
     <view class="icon">
-      <image class="t" mode="aspectFit" src="/img/t1.png"></image>
-      <text class="text">美食</text>
+      <image class="t" mode="aspectFit" src="/img/t6.png"></image>
+      <text class="text">美团专送</text>
     </view>
     <view class="icon">
-      <image class="t" mode="aspectFit" src="/img/t1.png"></image>
-      <text class="text">美食</text>
+      <image class="t" mode="aspectFit" src="/img/t7.png"></image>
+      <text class="text">夜宵</text>
     </view>
     <view class="icon">
-      <image class="t" mode="aspectFit" src="/img/t1.png"></image>
-      <text class="text">美食</text>
+      <image class="t" mode="aspectFit" src="/img/t8.png"></image>
+      <text class="text">龙虾烧烤</text>
     </view>
   </view>
   <view class="top-placeholder">
@@ -48,13 +48,6 @@
   </view>
 
 
-  <!--<view  bindtap="bindViewTap" class="userinfo">
-    <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
-    <text class="userinfo-nickname">{{userInfo.nickName}}</text>
-  </view>
-  <view class="usermotto">
-    <text class="user-motto">{{motto}}</text>
-  </view>-->
 
   
 
