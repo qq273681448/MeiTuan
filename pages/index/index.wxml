@@ -48,8 +48,44 @@
   </view>
 
 
+  <view class="split-h">
+    <image src="http://p1.meituan.net/0.120.100/xianfu/d3a267d8418c66850c3a7b8358aa8c408360.jpeg" style="width:94px;height:74px"></image>
+    <view>
+      <view class="">
+        <text style="font-size:12pt">晋B•2008烧烤·海鲜</text>
+        <image style="width:15px;height:15px" src="http://p1.meituan.net/xianfu/32200c3060be7903f62c9076308619ee734.png"></image>
 
-  
+
+      </view>
+      <view style="align-items: center;display: flex; margin-top:5px;flex: 1;">
+        <view class="star"></view>
+        <view class="star"></view>
+        <view class="star"></view>
+        <view class="star"></view>
+        <view class="star"></view>
+        <text style="font-size:10pt;color:#656565">月售132单</text>
+      </view>
+      <view class="">
+        <text style="font-size:10pt;color:#656565">起送价￥25|配送￥12</text>
+      </view>
+    </view>
+    <view>
+      <view class="">
+        <text style="font-size:10pt;color:#656565">5.1km</text>
+      </view>
+      <view class="">
+        <text style="font-size:10pt;color:#656565">33分钟</text>
+      </view>
+      <view class="">
+        <text class="allocation">美团专送</text>
+      </view>
+
+    </view>
+
+
+
+  </view>
+
 
 
 

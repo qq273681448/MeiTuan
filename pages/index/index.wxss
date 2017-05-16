@@ -36,8 +36,8 @@
 }
 
 .icon .t {
-  width: 90px;
-  height: 90px;
+  width: 80px;
+  height: 80px;
 }
 
 .icon .text {
@@ -85,4 +85,34 @@
   font-size: 10pt;
   line-height: 30px;
   padding-left: 10px;
+}
+
+
+
+
+.split-h{display: flex; align-items: center;}
+
+
+.star{
+background: url(http://xs01.meituan.net/waimai_i/img/sprite/homestars.02ae04d0.png) no-repeat;
+    background-size: cover;
+    width: 17px;
+    height: 17px;
+    float: left;
+    margin-right: -2px;
+    background-position: 0 -2px;
+
+
+}
+
+
+.allocation {
+    background-color: #ffd600;
+    display: inline-block;
+    padding: 2px 6px;
+    font-size: 10pt;
+    color: #784203;
+    font-weight: normal;
+    border-radius: 3px;
+    vertical-align: baseline;
 }
