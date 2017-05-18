@@ -1,0 +1,45 @@
+/* pages/index/list.wxss */
+.split-h{display: flex; align-items: center;padding-right: 15px}
+
+
+.star{
+background: url(http://xs01.meituan.net/waimai_i/img/sprite/homestars.02ae04d0.png) no-repeat;
+    background-size: cover;
+    width: 17px;
+    height: 17px;
+    float: left;
+    margin-right: -2px;
+    background-position: 0 -2px;
+
+
+}
+
+
+.allocation {
+    background-color: #ffd600;
+    display: inline-block;
+    padding: 2px 6px;
+    font-size: 9pt;
+    color: #784203;
+    font-weight: normal;
+    border-radius: 3px;
+    vertical-align: baseline;
+}
+
+.t{
+  text-align: center;
+  font-size: 10pt;
+  padding: 5px;
+}
+
+.down{
+/*content: '';*/
+
+
+    width: 5px;
+    height: 5px;
+    border: 1px solid #9b9b9b;
+    border-width: 0 1px 1px 0;
+    -webkit-transform: rotate(45deg);
+    margin-top: -10px;
+}

@@ -7,46 +7,47 @@
   </view>-->
   <!--<view class="bnrs-indic-wrap">
   </view>-->
-  <view style="display: flex;">
-    <view class="icon">
-      <image class="t" mode="aspectFit" src="/img/t1.png"></image>
-      <text class="text">美食</text>
+  <navigator url="list">
+    <view style="display: flex;">
+      <view class="icon">
+        <image class="t" mode="aspectFit" src="/img/t1.png"></image>
+        <text class="text">美食</text>
+      </view>
+      <view class="icon">
+        <image class="t" mode="aspectFit" src="/img/t2.png"></image>
+        <text class="text">超市</text>
+      </view>
+      <view class="icon">
+        <image class="t" mode="aspectFit" src="/img/t3.png"></image>
+        <text class="text">鲜果购</text>
+      </view>
+      <view class="icon">
+        <image class="t" mode="aspectFit" src="/img/t4.png"></image>
+        <text class="text">甜点饮品</text>
+      </view>
     </view>
-    <view class="icon">
-      <image class="t" mode="aspectFit" src="/img/t2.png"></image>
-      <text class="text">超市</text>
+    <view style="display: flex;">
+      <view class="icon">
+        <image class="t" mode="aspectFit" src="/img/t5.png"></image>
+        <text class="text">正餐优选</text>
+      </view>
+      <view class="icon">
+        <image class="t" mode="aspectFit" src="/img/t6.png"></image>
+        <text class="text">美团专送</text>
+      </view>
+      <view class="icon">
+        <image class="t" mode="aspectFit" src="/img/t7.png"></image>
+        <text class="text">夜宵</text>
+      </view>
+      <view class="icon">
+        <image class="t" mode="aspectFit" src="/img/t8.png"></image>
+        <text class="text">龙虾烧烤</text>
+      </view>
     </view>
-    <view class="icon">
-      <image class="t" mode="aspectFit" src="/img/t3.png"></image>
-      <text class="text">鲜果购</text>
+    <view class="top-placeholder">
+      <text class="text">附近商家</text>
     </view>
-    <view class="icon">
-      <image class="t" mode="aspectFit" src="/img/t4.png"></image>
-      <text class="text">甜点饮品</text>
-    </view>
-  </view>
-  <view style="display: flex;">
-    <view class="icon">
-      <image class="t" mode="aspectFit" src="/img/t5.png"></image>
-      <text class="text">正餐优选</text>
-    </view>
-    <view class="icon">
-      <image class="t" mode="aspectFit" src="/img/t6.png"></image>
-      <text class="text">美团专送</text>
-    </view>
-    <view class="icon">
-      <image class="t" mode="aspectFit" src="/img/t7.png"></image>
-      <text class="text">夜宵</text>
-    </view>
-    <view class="icon">
-      <image class="t" mode="aspectFit" src="/img/t8.png"></image>
-      <text class="text">龙虾烧烤</text>
-    </view>
-  </view>
-  <view class="top-placeholder">
-    <text class="text">附近商家</text>
-  </view>
-
+  </navigator>
 
   <view class="split-h" style=" overflow: hidden;position:relative">
     <text style="position: absolute; color: #6b450a;background: #fdd943;   transform: rotate(-45deg);font-size:10pt;margin-top:-30px;margin-left:-22px;width:60px;height:30px;text-align: center;line-height:45px;  ">品牌</text>
@@ -80,6 +81,8 @@
       </view>
     </view>
   </view>
+
+
   <view style="height:10px;background-color: #efefef;"></view>
 
 

@@ -1,0 +1,51 @@
+<!--pages/index/list.wxml-->
+<view class="flex">
+  <view style="flex:1">
+    <text class="smalltext t ">美食</text>
+    <text class="down"></text>
+  </view>
+  <view style="flex:1">
+    <text class="smalltext t ">美食</text>
+    <view class="down"></view>
+  </view>
+  <view style="flex:1">
+    <text class="smalltext t ">美食</text>
+    <view class="down"></view>
+  </view>
+
+
+  <!--<text class="smalltext t" style="flex:1">综合排序</text>
+<text class="smalltext t" style="flex:1">筛选</text>-->
+</view>
+<view class="split-h">
+  <image src="http://p0.meituan.net/0.120.100/xianfu/fd3a8462080c71f60f2581c2e7c1d3f43010.jpeg" style="width:94px;height:74px"></image>
+  <view style="flex:1">
+    <view>
+      <text style="font-size:12pt">北京麦当劳展览路餐厅</text>
+      <image style="width:15px;height:15px" src="http://p1.meituan.net/xianfu/32200c3060be7903f62c9076308619ee734.png"></image>
+    </view>
+    <view style="align-items: center;display: flex; margin-top:5px;flex: 1;">
+      <view class="star"></view>
+      <view class="star"></view>
+      <view class="star"></view>
+      <view class="star"></view>
+      <view class="star"></view>
+      <text style="font-size:10pt;color:#656565">月售1663单</text>
+    </view>
+    <view class="">
+      <text style="font-size:10pt;color:#656565">起送价￥0|配送￥9</text>
+    </view>
+  </view>
+  <view>
+    <view style="text-align:right">
+      <text style="font-size:10pt;color:#656565;">4.1km</text>
+    </view>
+    <view style="text-align:right">
+      <text style="font-size:10pt;color:#656565">31分钟</text>
+    </view>
+    <view class="">
+      <text class="allocation">美团专送</text>
+    </view>
+  </view>
+</view>
+<view style="height:10px;background-color: #efefef;"></view>

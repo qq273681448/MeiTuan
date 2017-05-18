@@ -8,3 +8,13 @@
   padding: 200rpx 0;
   box-sizing: border-box;*/
 } 
+
+.flex{
+
+  display: flex;
+}
+
+.smalltext{
+    font-size: 9pt;
+
+}
