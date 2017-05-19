@@ -1,12 +1,13 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
+    "pages/index/list",
     "pages/logs/logs"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#ffd705",
     "navigationBarTitleText": "美团外卖",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle": "black"
   }
 }
